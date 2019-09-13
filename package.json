@@ -65,7 +65,7 @@
     "object-walk": "0.1.1",
     "passport": "0.4.0",
     "passport-http": "0.3.0",
-    "request": "2.83.0",
+    "request": "^2.88.0",
     "time-ago": "0.1.0",
     "uglify-es": "^3.3.7",
     "validator": "^10.4.0"
